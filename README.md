@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Casper's Code Haven</h1>
 <h3 align="center">Fueled by adrenaline, Building, Teaching, and Exploring Life One Adventure at a Time 🚀🏞️</h3>
 <br>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/3o6Zt2cye6HNaLzUsU/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqPfYnvug2tsgIbm0NAz_LhOSMb_wf_5G8xzE5nMzliots80HtD6FbuGnTwZ0H8JIhXM&usqp=CAU"/>
 <br>
 
 <h3 align="left">🚀 MERN Stack Roadmap:</h3>
