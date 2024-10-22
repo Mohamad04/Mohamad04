@@ -1,7 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
 <h3 align="center">Crafting Code, Building Machines, and Fixing the World (One Gadget at a Time)</h3>
+<br>
 <h3 align="center">Fueled by adrenaline, hiking trails, and a strong cup of tea on the cliff’s edge</h3>
-<img align="right" alt="Coding" width="400" src="https://instanteduhelp.com/wp-content/uploads/2023/02/instaedu-3-1-1024x1024.png.webp"/>
+
+<img align="right" alt="Coding" width="350" src="https://instanteduhelp.com/wp-content/uploads/2023/02/instaedu-3-1-1024x1024.png.webp"/>
 
 - 💬 Ask me about **MERN**
 
