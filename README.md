@@ -1,6 +1,7 @@
-<h1 align="center">Crafting Code, Building Machines, and Fixing the World (One Gadget at a Time)</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h3 align="center">Crafting Code, Building Machines, and Fixing the World (One Gadget at a Time)</h3>
 <h3 align="center">Fueled by adrenaline, hiking trails, and a strong cup of tea on the cliff’s edge</h3>
-img align="right" alt="Coding" width="400" src="https://instanteduhelp.com/wp-content/uploads/2023/02/instaedu-3-1-1024x1024.png.webp"/>
+<img align="right" alt="Coding" width="400" src="https://instanteduhelp.com/wp-content/uploads/2023/02/instaedu-3-1-1024x1024.png.webp"/>
 
 - 💬 Ask me about **MERN**
 
